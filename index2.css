@@ -1,0 +1,33 @@
+.img{
+    height: 600px;
+    width: 40%;
+    text-align: left;
+}
+.main{
+    display: flex;
+}
+.name{
+    text-align: left;
+    height: 600px;
+width: 40%;
+}
+.gap{
+    height: 600px;
+    width: 20%;
+}
+input{
+    width: 50px;
+}
+BUTTON{
+    width: 100px;
+    border-radius: 7px;
+}
+a{
+    color: #000;
+}
+.MAIN1{
+    display: flex;
+}
+.GAP{
+    width: 25px;    
+}
